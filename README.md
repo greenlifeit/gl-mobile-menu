@@ -1,2 +1,2 @@
-# Green Life Mobile Menu
-Add a responsive mobile menu for WordPress.
+# GL Mobile Menu
+WordPress plugin to Add a responsive mobile menu to your website.
